@@ -43,5 +43,24 @@ I used a dataset provided in Luke's Excel course that contains real-world data s
   )
 )
 
+This formula helped me calculate the median salary based on selected filters.
+
+✅ What I Learned
+How to structure and clean a dataset
+
+How to build visuals in Excel that tell a story
+
+How different Excel functions work together
+
+How to use data validation to make a user-friendly dashboard
+
+🚀 Next Steps
+Learn more about advanced Excel functions like XLOOKUP or Power Query
+
+Try connecting multiple sheets and using slicers
+
+Continue practicing by building dashboards on different topics
+
+Thanks for checking out my project! 👩‍💻🧠
 
 
