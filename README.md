@@ -22,7 +22,7 @@ I used a dataset provided in Luke's Excel course that contains real-world data s
 ## 🛠 Excel Skills I Practiced
 
 - **Charts**: Created bar charts and map charts to visualize salary data
-- **Formulas & Functions**: Used functions like `MEDIAN`, `IF`, and `FILTER` to calculate salary data based on filters
+- **Formulas & Functions**: Used functions like `MEDIAN`, `IF`, and `FILTER` , `XLOOKUP` , `VLOOKUP`to calculate salary data based on filters
 - **Data Validation**: Created dropdown lists to filter job titles, countries, and schedule types
 
 ## 📈 Dashboard Highlights
@@ -55,9 +55,6 @@ How different Excel functions work together
 How to use data validation to make a user-friendly dashboard
 
 🚀 Next Steps
-Learn more about advanced Excel functions like XLOOKUP or Power Query
-
-Try connecting multiple sheets and using slicers
 
 Continue practicing by building dashboards on different topics
 
