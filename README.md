@@ -5,7 +5,8 @@ This is my first Excel dashboard project, inspired by the work of [Luke](#). I f
 
 ## 📁 File
 
-- `My_First_Salary_Dashboard.xlsx` – The main Excel dashboard file
+- `Excel Salary Dashboard – My First Project Inspired by Luke.xlsx
+  ` – The main Excel dashboard file
 
 ## 📊 Project Description
 
